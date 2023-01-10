@@ -185,7 +185,7 @@ dspeed=a.Spd+5;
 
 printf("%s appeared\n\n",a.name);
 printf("You have %d Hp\n",MaxHp);
-printf("\%s has %d Hp\n",a.name,a.MaxHp);	
+printf("%s has %d Hp\n",a.name,a.MaxHp);	
 while(a.MaxHp>0)
 {
 printf("1:Attack\n2:Magic\n3:item\n4:Info\n5:Run\n");	
