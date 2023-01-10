@@ -204,6 +204,8 @@ switch(b)
   break;
   
   case 2:
+  printf("You don't have any magics");
+  break;
   
   
   case 3:if(hpot<0 && ppot<0 && spot<0 && dpot<0){
